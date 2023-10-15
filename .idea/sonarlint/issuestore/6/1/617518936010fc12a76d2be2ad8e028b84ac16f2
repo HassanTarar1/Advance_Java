@@ -1,0 +1,12 @@
+
+u	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ù‰ˆş±1
+O
+java:S1135@"2Complete the task associated to this TODO comment.(ƒ«8Šˆş±1
+n
+java:S6201T"LReplace this instanceof check and cast with 'instanceof Closeable closeable'(æ«¦¾úÿÿÿÿ8Šˆş±1
+n
+java:S6201a"LReplace this instanceof check and cast with 'instanceof Flushable flushable'(”­¹ıûÿÿÿÿ8•Šˆş±1
+m
+java:S6201ƒ"JReplace this instanceof check and cast with 'instanceof Object[] object[]'(Ã­¥Šúÿÿÿÿ8¢Šˆş±1
+m
+java:S6201¶"JReplace this instanceof check and cast with 'instanceof Object[] object[]'(Ã­¥Šúÿÿÿÿ8¤Šˆş±1

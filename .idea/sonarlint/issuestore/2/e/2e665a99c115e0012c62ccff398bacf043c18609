@@ -1,0 +1,20 @@
+
+h	java:S112―"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‚ω…ώ±1
+v
+java:S2293Ξ"YReplace the type specification in this constructor call with the diamond operator ("<>").(·µΣ8‰ω…ώ±1
+w
+java:S2293Α"YReplace the type specification in this constructor call with the diamond operator ("<>").(²§‘ν8‰ω…ώ±1
+w
+java:S2293ΰ"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ά΅8‰ω…ώ±1
+w
+java:S2293ς"YReplace the type specification in this constructor call with the diamond operator ("<>").(Έ‘βά8ω…ώ±1
+w
+java:S2293σ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ς¤8ω…ώ±1
+e
+java:S1192"GDefine a constant instead of duplicating this literal "format" 4 times.(‡δ’8ω…ώ±1
+W
+java:S6213Ξ":Rename this variable to not match a restricted identifier.(·µΣ8©ω…ώ±1
+o
+java:S3776ν"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ψ©,8Ύω…ώ±1
+P
+java:S1135®"2Complete the task associated to this TODO comment.(€μύ8Ζω…ώ±1
