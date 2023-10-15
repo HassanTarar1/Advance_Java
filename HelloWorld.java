@@ -29,7 +29,6 @@ public class HelloWorld {
 
 
 //		FileResource res = new FileResource("hello_unicode.txt");
-//		res.write("hassan ijaz Tarar");
 //		for (String line : res.lines()) {
 //			System.out.println(line);
 //		}
